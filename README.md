@@ -17,11 +17,13 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 - Sprint 5
 - Sprint 6
 
-Let's start with basic learning.
+#### Let's start with basic learning.
 
+## Sprint 1:
 
-Sprint 1:
-Flutter basics:
+### Flutter basics:
+* introduction to [Flutter](https://www.javtpoint.com/flutter)
+* [Why flutter?](https://medium.com/flutter-community/reasons-why-flutter-is-setting-the-trend-in-mobile-app-development-4aa707532fb)
 
 
 
