@@ -52,6 +52,20 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Hot Reload](https://docs.flutter.dev/development/tools/hot-reload)
 * [Punspec file](https://docs.flutter.dev/development/tools/pubspec)
 
+##Sprint 2:
 
+* Introduction to [Declarative UI](https://docs.flutter.dev/get-started/flutter-for/declarative)
+* Introduction to [Widgets](https://docs.flutter.dev/development/ui/widgets-intro)
+* [Layouts in flutter](https://docs.flutter.dev/development/ui/layout)
+* [Building Layout](https://docs.flutter.dev/development/ui/layout/tutorial)
 
+### Supporting different devices
+* [Adaptive and Resposive](https://docs.flutter.dev/development/ui/layout/adaptive-responsive) apps
+
+### DelightFul User experience
+* Intorduction to [Material components](https://docs.flutter.dev/development/ui/widgets/material)
+
+### Practical 2.1
+* Create given [Responsive UI]
+- You can use alternative images.
 
