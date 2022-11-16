@@ -52,7 +52,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Hot Reload](https://docs.flutter.dev/development/tools/hot-reload)
 * [Punspec file](https://docs.flutter.dev/development/tools/pubspec)
 
-##Sprint 2:
+## Sprint 2:
 
 * Introduction to [Declarative UI](https://docs.flutter.dev/get-started/flutter-for/declarative)
 * Introduction to [Widgets](https://docs.flutter.dev/development/ui/widgets-intro)
