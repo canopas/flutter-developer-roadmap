@@ -38,6 +38,15 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 #### Practicle 1.1
 * Do all [Practicles](https://github.com/cp-sneha-s/flutter-roadmap/blob/main/Practical-1.1) using [Dartpad](https://www.dartpad.dev/?).
 
+#### Practicle 1.2
+* Create repository of practicle 1.1 on Gitlab
+
+#### References
+* Introduction to version control: [What Is Version Control?](https://tutorials.codebar.io/version-control/introduction/tutorial.html)
+* How to use git
+    -  [Version control with git](https://www.udacity.com/course/version-control-with-git--ud123)
+    -  [Git: The Beginner's Guide to Understanding Core Version Control Concepts](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/10929402#overview)
+    -  [When to commit in version control](https://softwareengineering.stackexchange.com/questions/74764/how-often-should-i-do-you-make-commits)
 
 
 
