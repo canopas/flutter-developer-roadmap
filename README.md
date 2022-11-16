@@ -67,6 +67,6 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 
 ### Practical 2.1
 * Create given [Responsive UI](https://user-images.githubusercontent.com/92501869/202130578-6c42048a-ce47-4833-bdc2-9e700cc6a489.png)
- You can use alternative images.
+   - You can use alternative images.
 
 
