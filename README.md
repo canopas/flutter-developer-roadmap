@@ -68,5 +68,11 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ### Practical 2.1
 * Create given [Responsive UI](https://user-images.githubusercontent.com/92501869/202130578-6c42048a-ce47-4833-bdc2-9e700cc6a489.png)
    - You can use alternative images.
+   
+### Navigation:
+* [Navigation](https://medium.com/easyread/3-options-for-creating-responsive-layouts-in-flutter-app-live-demo-68b0c0e955ab) in Flutter
+* [Navigation and Routing](https://docs.flutter.dev/development/ui/navigation)
+* Introduction to [Navigator 2.0](https://blog.codemagic.io/flutter-navigator2/)
+
 
 
