@@ -36,7 +36,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Flutter code formatting](https://docs.flutter.dev/development/tools/formatting)
 
 #### Practicle 1.1
-* Do all [practicles] using [Dartpad](https://www.dartpad.dev/?).
+* Do all [practicles](https://github.com/cp-sneha-s/flutter-roadmap/blob/main/Practical-1.1) using [Dartpad](https://www.dartpad.dev/?).
 
 
 
