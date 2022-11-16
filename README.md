@@ -74,5 +74,10 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Navigation and Routing](https://docs.flutter.dev/development/ui/navigation)
 * Introduction to [Navigator 2.0](https://blog.codemagic.io/flutter-navigator2/)
 
+### Practical 2.2
+* Implement an app with a bottom bar that has 4 screens (home, setting, like, search).
+   -  Implement a route between screens.
+   - Implement Navigator 2.0
+
 
 
