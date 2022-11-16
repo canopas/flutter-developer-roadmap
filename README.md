@@ -47,6 +47,10 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
     -  [Version control with git](https://www.udacity.com/course/version-control-with-git--ud123)
     -  [Git: The Beginner's Guide to Understanding Core Version Control Concepts](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/10929402#overview)
     -  [When to commit in version control](https://softwareengineering.stackexchange.com/questions/74764/how-often-should-i-do-you-make-commits)
+ 
+ ### Flutter Tools:
+* [Hot Reload](https://docs.flutter.dev/development/tools/hot-reload)
+* [Punspec file](https://docs.flutter.dev/development/tools/pubspec)
 
 
 
