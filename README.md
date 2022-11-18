@@ -81,10 +81,20 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
    
 ## Sprint 3:
 
-### Networking:
+### Json serialization:
 * [Json and serialization](https://docs.flutter.dev/development/data-and-backend/json)
    - [Parsing Json](https://medium.com/@abhishekdoshi26/parsing-json-in-flutter-7519293f5168) in flutter
-* [Auto generate] json serializable in flutetr
+* [Auto generate](https://medium.flutterdevs.com/automatic-generate-json-serializable-in-flutter-4c9d2d23ed88) json serializable in flutter
+
+### Networking:
+* [Networking in flutter](https://docs.flutter.dev/development/data-and-backend/networking)
+* [Retrofit](https://medium.com/mindful-engineering/retrofit-the-easiest-way-to-call-rest-apis-is-flutter-fe55d1e7c5c2)
+* [Dio](https://pub.dev/packages/dio)-  powerful HTTP client of dart
+* [Chopper](https://pub.dev/packages/chopper)- HTTP client generator for Dart and Flutter using source_gen and inspired by Retrofit.
+
+### Practical 3.1
+### References
+
 
 
 
