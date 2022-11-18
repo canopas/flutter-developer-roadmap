@@ -77,7 +77,15 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ### Practical 2.2
 * Implement an app with a bottom bar that has 4 screens (home, setting, like, search).
    -  Implement a route between screens.
-   - Implement Navigator 2.0
+   - Implement Navigator 2.
+   
+## Sprint 3:
+
+### Networking:
+* [Json and serialization](https://docs.flutter.dev/development/data-and-backend/json)
+   - [Parsing Json](https://medium.com/@abhishekdoshi26/parsing-json-in-flutter-7519293f5168) in flutter
+* [Auto generate] json serializable in flutetr
+
 
 
 
