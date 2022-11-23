@@ -77,7 +77,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ### Practical 2.2
 * Implement an app with a bottom bar that has 4 screens (home, setting, like, search).
    -  Implement a route between screens.
-   - Implement Navigator 2.
+   - Implement Navigator 2.0
    
 ## Sprint 3:
 
@@ -93,7 +93,23 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Chopper](https://pub.dev/packages/chopper)- HTTP client generator for Dart and Flutter using source_gen and inspired by Retrofit.
 
 ### Practical 3.1
-### References
+* Implement Food Application with following functionality 
+* Fetch food feeds from API 
+* User should be navigate to its detail page by clicking reciepe
+* Add log click delete functionality on food click to delete food from local storage
+* Implement [pull to refresh](https://pub.dev/packages/pull_to_refresh) functionality to refresh cached feeds in local storage.
+
+    API - GET request - 'https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/food/ingredient
+    headers: {
+    'X-RapidAPI-Key': '6991e41207mshaaf1e8dd61f03fdp17fbe9jsn3c96953146c7',
+    'X-RapidAPI-Host': 'spoonacular-recipe-food-nutrition-v1.p.rapidapi.com'
+  }
+  
+ ### Reference:
+ * [Networking like a pro](https://medium.com/swlh/how-to-do-networking-like-a-pro-in-flutter-7e2612103cb5)
+ * Flutter networking [tutorial](https://www.kodeco.com/5896601-flutter-networking-tutorial-getting-started)
+
+
 
 
 
