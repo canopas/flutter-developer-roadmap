@@ -136,6 +136,29 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
  * State management [approaches](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options)
  * Udemy Course 1: Section 16
 
+### Local storage:
+* [Store key-vaue pair](https://docs.flutter.dev/cookbook/persistence/key-value)
+* [Read and wirte files](https://docs.flutter.dev/cookbook/persistence/reading-writing-files)
+* [Sqlite database](https://docs.flutter.dev/cookbook/persistence/sqlite)
+
+### Practical 4.1
+* Create simple TODO app with CRUD operation with SQLite.
+* Home screen should have list of task with add new task fab button.
+* On the click of task it should be redirect to task status screen where it can be edit.
+* On the cell swipe it shows delete option and on it's click that particular task should delete.
+* Add option to active and inactive task.
+  - Note
+    - Use flutter bloc for state management
+    - Use provider for state management
+   
+   
+ ### Reference:
+* [Database concepts](https://www.tutorialspoint.com/flutter/flutter_database_concepts.htm) in flutter
+* [Provider](https://medium.com/codechai/provider-state-management-in-flutter-d453e73537c5)state management in flutter
+* [BLoC](https://blog.logrocket.com/state-management-flutter-bloc-pattern/) state management in flutter
+
+
+
 
 
 
