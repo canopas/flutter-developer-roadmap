@@ -64,6 +64,9 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 
 ### DelightFul User experience
 * Intorduction to [Material components](https://docs.flutter.dev/development/ui/widgets/material)
+* How to Build Beautiful UIs with Flutter Widgets 
+    -  Udemy Course 1 - Section 6
+
 
 ### Practical 2.1
 * Create given [Responsive UI](https://user-images.githubusercontent.com/92501869/202130578-6c42048a-ce47-4833-bdc2-9e700cc6a489.png)
@@ -119,6 +122,19 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
  * [Asynchronous](https://medium.flutterdevs.com/concurrency-in-dart-b9171278af31) in Dart
  * [WorkManager](https://pub.dev/packages/workmanager)
  * [Thread and Isolate](https://medium.com/flutter-community/thread-and-isolate-with-flutter-30b9631137f3)
+ 
+ ## Sprint 4:
+ 
+ ### App Architecture:
+ * [Archtectural overview](https://docs.flutter.dev/resources/architectural-overview)
+ * [Flutter MVVM Architecture](https://medium.com/flutterworld/flutter-mvvm-architecture-f8bed2521958)
+ * [MVVM](https://medium.flutterdevs.com/design-patterns-in-flutter-part-3-mvvm-a310de4eb83) design pattern
+ 
+ ### State management:
+ * [Interoduction](https://docs.flutter.dev/development/data-and-backend/state-mgmt/intro) to state management
+ * [Conceptual types of state](https://docs.flutter.dev/development/data-and-backend/state-mgmt/ephemeral-vs-app)
+ * State management [approaches](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options)
+ * Udemy Course 1: Section 16
 
 
 
