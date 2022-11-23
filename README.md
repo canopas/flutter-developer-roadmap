@@ -108,6 +108,15 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
  ### Reference:
  * [Networking like a pro](https://medium.com/swlh/how-to-do-networking-like-a-pro-in-flutter-7e2612103cb5)
  * Flutter networking [tutorial](https://www.kodeco.com/5896601-flutter-networking-tutorial-getting-started)
+ 
+ ### Work in background
+ * [Concurrency](https://dart.dev/guides/language/concurrency) in Dart
+ * [Asynchronous programming](https://dart.dev/codelabs/async-await)
+ #### Reference:
+ * [Asynchronous](https://medium.flutterdevs.com/concurrency-in-dart-b9171278af31) in Dart
+ * [WorkManager](https://pub.dev/packages/workmanager)
+ * [Thread and Isolate](https://medium.com/flutter-community/thread-and-isolate-with-flutter-30b9631137f3)
+
 
 
 
