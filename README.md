@@ -105,6 +105,8 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
     'X-RapidAPI-Key': '6991e41207mshaaf1e8dd61f03fdp17fbe9jsn3c96953146c7',
     'X-RapidAPI-Host': 'spoonacular-recipe-food-nutrition-v1.p.rapidapi.com'
   }
+  * Note:
+    - Use http package for networking
   
  ### Reference:
  * [Networking like a pro](https://medium.com/swlh/how-to-do-networking-like-a-pro-in-flutter-7e2612103cb5)
