@@ -100,6 +100,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * Implement [pull to refresh](https://pub.dev/packages/pull_to_refresh) functionality to refresh cached feeds in local storage.
 
     API - GET request - 'https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/food/ingredient
+    
     headers: {
     'X-RapidAPI-Key': '6991e41207mshaaf1e8dd61f03fdp17fbe9jsn3c96953146c7',
     'X-RapidAPI-Host': 'spoonacular-recipe-food-nutrition-v1.p.rapidapi.com'
