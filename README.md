@@ -180,6 +180,17 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
    -  [injectable](https://pub.dev/packages/injectable)
    -  [getIt](https://pub.dev/packages/get_it)
 
+### Reactive programming
+* [RxDart](https://pub.dev/packages/rxdart)
+* Introduction to [RxDart](https://medium.com/flutter-community/why-use-rxdart-and-how-we-can-use-with-bloc-pattern-in-flutter-a64ca2c7c52d)
+
+### Dev Tools:
+* [Flutter Inspector](https://docs.flutter.dev/development/tools/devtools/inspector)
+* [Memory allocation](https://docs.flutter.dev/development/tools/devtools/memory)
+* Flutter performance [best practices](https://docs.flutter.dev/perf/best-practices)
+
+
+
 
 
 
