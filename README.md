@@ -153,14 +153,14 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
    
    
  ### Reference:
-* [Database concepts] (https://www.tutorialspoint.com/flutter/flutter_database_concepts.htm) in flutter
-* [Provider] (https://medium.com/codechai/provider-state-management-in-flutter-d453e73537c5)state management in flutter
-* [BLoC] (https://blog.logrocket.com/state-management-flutter-bloc-pattern/) state management in flutter
+* [Database concepts](https://www.tutorialspoint.com/flutter/flutter_database_concepts.htm) in flutter
+* [Provider](https://medium.com/codechai/provider-state-management-in-flutter-d453e73537c5)state management in flutter
+* [BLoC](https://blog.logrocket.com/state-management-flutter-bloc-pattern/) state management in flutter
 
 ## Sprint 5
 
 ### Testing:
-* [Intruduction] (https://docs.flutter.dev/testing) to testing flutter apps
+* [Intruduction](https://docs.flutter.dev/testing) to testing flutter apps
 * [Unit testing](https://docs.flutter.dev/cookbook/testing/unit/introduction)
 * [Widget testing](https://docs.flutter.dev/cookbook/testing/widget/introduction)
 * [Integration testing](https://docs.flutter.dev/cookbook/testing/integration/introduction)
@@ -177,7 +177,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Introduction](https://www.geekyants.com/blog/understanding-dependency-injection-in-flutter-using-provider-143/) to dependency injection
 * [DI in flutter](https://medium.com/flutter-community/flutters-dependency-injection-c4f053e4408)
 * Package:
-   -  [injectable](https://pub.dev/packages/injectable0
+   -  [injectable](https://pub.dev/packages/injectable)
    -  [getIt](https://pub.dev/packages/get_it)
 
 
