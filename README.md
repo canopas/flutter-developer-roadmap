@@ -11,11 +11,11 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 
 # Table of Contents:
 - [Sprint 1](https://github.com/cp-sneha-s/flutter-roadmap#sprint-1)
-- Sprint 2
-- Sprint 3
-- Sprint 4
-- Sprint 5
-- Sprint 6
+- [Sprint 2](https://github.com/cp-sneha-s/flutter-roadmap#sprint-2)
+- [Sprint 3](https://github.com/cp-sneha-s/flutter-roadmap#sprint-3)
+- [Sprint 4](https://github.com/cp-sneha-s/flutter-roadmap#sprint-4)
+- [Sprint 5](https://github.com/cp-sneha-s/flutter-roadmap#sprint-5)
+- [Sprint 6](https://github.com/cp-sneha-s/flutter-roadmap#sprint-6)
 
 #### Let's start with basic learning.
 
@@ -188,6 +188,36 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Flutter Inspector](https://docs.flutter.dev/development/tools/devtools/inspector)
 * [Memory allocation](https://docs.flutter.dev/development/tools/devtools/memory)
 * Flutter performance [best practices](https://docs.flutter.dev/perf/best-practices)
+
+## Sprint 6:
+
+### Final Practice:
+  1  Implement a shopping application (API Doc)
+      Screen one - Home screen 
+      - On main screen show list of products - API
+      - Open product detail on it’s click - API
+      - Add option to search products by categories - API
+      - Add option to check out all product in cart
+ 
+     Screen two - Show product detail 
+            - Show full detail with images and description 
+            - Add option to add/remove the product from the cart ( Add/delete an item in local database)
+
+     Screen three - Show products from cart
+     
+     Fetch and show all cart item from local database
+     Add option checkout and show total price of products
+     Add option to remove from cart
+                  
+
+    Screen four - Login 
+    User must have to login before adding any item into cart - API
+    Add option to logout 
+
+
+     Add unit test for all viewmodel and helper classes
+
+ 2  Make a calculator application. Save calculation history in the database. Users can view history and clear history.
 
 
 
