@@ -192,31 +192,31 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ## Sprint 6:
 
 ### Final Practice:
-  1    Implement a shopping application 
+1 Implement a shopping application 
       
-      Screen one - Home screen 
+  Screen one - Home screen 
       - On main screen show list of products - [API](https://fakestoreapi.com/products)
       - Open product detail on it’s click - [API](https://fakestoreapi.com/products/1)
       - Add option to search products by categories - [API](https://fakestoreapi.com/products/categories)
       - Add option to check out all product in cart
  
-     Screen two - Show product detail 
+  Screen two - Show product detail 
             - Show full detail with images and description 
             - Add option to add/remove the product from the cart ( Add/delete an item in local database)
 
-     Screen three - Show products from cart
+  Screen three - Show products from cart
      
-     Fetch and show all cart item from local database
-     Add option checkout and show total price of products
-     Add option to remove from cart
+   -  Fetch and show all cart item from local database
+   -  Add option checkout and show total price of products
+   -   Add option to remove from cart
                   
 
-    Screen four - Login 
-    User must have to login before adding any item into cart - API
-    Add option to logout 
+  Screen four - Login 
+      - User must have to login before adding any item into cart - API
+      -  Add option to logout 
 
 
-     - Add unit test for all viewmodel and helper classes
+  - Add unit test for all viewmodel and helper classes
 
  2  Make a calculator application. Save calculation history in the database. Users can view history and clear history.
 
