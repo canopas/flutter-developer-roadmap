@@ -87,7 +87,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
    
 ### References:
 * [A beginner’s guide to go_router in Flutter](https://blog.codemagic.io/flutter-go-router-guide/)
-* (Get started with Go Router}(https://pub.dev/documentation/go_router/latest/topics/Get%20started-topic.html)
+* [Get started with Go Router](https://pub.dev/documentation/go_router/latest/topics/Get%20started-topic.html)
 
    
 ## Sprint 3:
@@ -102,6 +102,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Retrofit](https://medium.com/mindful-engineering/retrofit-the-easiest-way-to-call-rest-apis-is-flutter-fe55d1e7c5c2)
 * [Dio](https://pub.dev/packages/dio)-  powerful HTTP client of dart
 * [Chopper](https://pub.dev/packages/chopper)- HTTP client generator for Dart and Flutter using source_gen and inspired by Retrofit.
+* [http](https://pub.dev/packages/http) for networking.
 
 ### Practical 3.1
 * Implement Food Application with following functionality 
@@ -131,6 +132,9 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
  * [WorkManager](https://pub.dev/packages/workmanager)
  * [Thread and Isolate](https://medium.com/flutter-community/thread-and-isolate-with-flutter-30b9631137f3)
  
+ ### Practicle 3.2
+ * Implement navigation 2.0 in Practicle 3.1
+ 
  ## Sprint 4:
  
  ### App Architecture:
@@ -143,6 +147,10 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
  * [Conceptual types of state](https://docs.flutter.dev/development/data-and-backend/state-mgmt/ephemeral-vs-app)
  * State management [approaches](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options)
  * Udemy Course 1: Section 16
+
+### Reactive Programming
+* [rxDart](https://pub.dev/packages/rxdart)
+       - [how to use rxdart with bloc pattern](https://medium.com/flutter-community/why-use-rxdart-and-how-we-can-use-with-bloc-pattern-in-flutter-a64ca2c7c52d)
 
 ### Local storage:
 * [Store key-vaue pair](https://docs.flutter.dev/cookbook/persistence/key-value)
