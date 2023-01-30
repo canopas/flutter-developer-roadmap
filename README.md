@@ -38,8 +38,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 #### Practicle 1.1
 * Do all [Practicles](https://github.com/cp-sneha-s/flutter-roadmap/blob/main/Practical-1.1) using [Dartpad](https://www.dartpad.dev/?).
 
-#### Practicle 1.2
-* Create repository of practicle 1.1 on Gitlab
+
 
 #### References
 * Introduction to version control: [What Is Version Control?](https://tutorials.codebar.io/version-control/introduction/tutorial.html)
@@ -47,10 +46,14 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
     -  [Version control with git](https://www.udacity.com/course/version-control-with-git--ud123)
     -  [Git: The Beginner's Guide to Understanding Core Version Control Concepts](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/10929402#overview)
     -  [When to commit in version control](https://softwareengineering.stackexchange.com/questions/74764/how-often-should-i-do-you-make-commits)
+    
+ #### Practicle 1.2
+* Create repository of practicle 1.1 on Gitlab
  
  ### Flutter Tools:
 * [Hot Reload](https://docs.flutter.dev/development/tools/hot-reload)
 * [Punspec file](https://docs.flutter.dev/development/tools/pubspec)
+
 
 ## Sprint 2:
 
@@ -80,7 +83,12 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ### Practical 2.2
 * Implement an app with a bottom bar that has 4 screens (home, setting, like, search).
    -  Implement a route between screens.
-   - Implement Navigator 2.0
+   -  Implement Navigation 2.0 with [go_router](https://pub.dev/packages/go_router).
+   
+### References:
+* [A beginner’s guide to go_router in Flutter](https://blog.codemagic.io/flutter-go-router-guide/)
+* (Get started with Go Router}(https://pub.dev/documentation/go_router/latest/topics/Get%20started-topic.html)
+
    
 ## Sprint 3:
 
