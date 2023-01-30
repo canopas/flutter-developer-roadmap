@@ -1,7 +1,7 @@
 
 <h1 align="center">Flutter Developer Roadmap 2022</h1>
 
-![alt text](https://github.com/cp-sneha-s/flutter-roadmap/blob/main/flutter-roadmap-image.png)
+![alt text](https://github.com/cp-sneha-s/flutter-roadmap/blob/main/Flutter-developer-roadmap-header-image.jpeg)
 
 Flutter Developer Roadmap 2022 is a learning path to understand flutter development.
 
