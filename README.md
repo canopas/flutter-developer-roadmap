@@ -82,7 +82,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 
 ### Practical 2.2
 * Implement an app with a bottom bar that has 4 screens (home, setting, like, search).
-   -  Implement a route between screens.
+   -  Implement a route between screens from Navigation 1.0.
    -  Implement Navigation 2.0 with [go_router](https://pub.dev/packages/go_router).
    
 ### References:
