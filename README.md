@@ -235,7 +235,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Desktop support for flutter](https://docs.flutter.dev/development/platform-integration/desktop)
 * [Web application with flutter](https://docs.flutter.dev/get-started/web)
 
-## Practical 6.1:
+### Practical 6.1:
 * Add localization in Practicle 5.1
 * Add desktop and web support for the same. 
  
