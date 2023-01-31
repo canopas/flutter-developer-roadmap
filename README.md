@@ -155,7 +155,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 
 ### Local storage:
 * [Store key-vaue pair](https://docs.flutter.dev/cookbook/persistence/key-value)
-* [Read and wirte files](https://docs.flutter.dev/cookbook/persistence/reading-writing-files)
+* [Read and write files](https://docs.flutter.dev/cookbook/persistence/reading-writing-files)
 * [Sqlite database](https://docs.flutter.dev/cookbook/persistence/sqlite)
 * [hive](https://pub.dev/packages/hive)
 
