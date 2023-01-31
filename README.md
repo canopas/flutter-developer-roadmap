@@ -150,12 +150,17 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 
 ### Reactive Programming
 * [rxDart](https://pub.dev/packages/rxdart)
-       - [how to use rxdart with bloc pattern](https://medium.com/flutter-community/why-use-rxdart-and-how-we-can-use-with-bloc-pattern-in-flutter-a64ca2c7c52d)
+
+     - [how to use rxdart with bloc pattern](https://medium.com/flutter-community/why-use-rxdart-and-how-we-can-use-with-bloc-pattern-in-flutter-a64ca2c7c52d)
 
 ### Local storage:
 * [Store key-vaue pair](https://docs.flutter.dev/cookbook/persistence/key-value)
 * [Read and wirte files](https://docs.flutter.dev/cookbook/persistence/reading-writing-files)
 * [Sqlite database](https://docs.flutter.dev/cookbook/persistence/sqlite)
+* [hive](https://pub.dev/packages/hive)
+
+### Remote Storage:
+* [Firebase](https://docs.flutter.dev/development/data-and-backend/firebase)
 
 ### Practical 4.1
 * Create simple TODO app with CRUD operation with SQLite.
@@ -170,10 +175,35 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
    
  ### Reference:
 * [Database concepts](https://www.tutorialspoint.com/flutter/flutter_database_concepts.htm) in flutter
-* [Provider](https://medium.com/codechai/provider-state-management-in-flutter-d453e73537c5)state management in flutter
+* [Provider](https://medium.com/codechai/provider-state-management-in-flutter-d453e73537c5) state management in flutter
 * [BLoC](https://blog.logrocket.com/state-management-flutter-bloc-pattern/) state management in flutter
 
+### Practical 4.2
+* Use firebase as backend data service in Practical 4.1
+
 ## Sprint 5
+
+
+### Depenedecy Injection
+* [Introduction](https://www.geekyants.com/blog/understanding-dependency-injection-in-flutter-using-provider-143/) to dependency injection
+* [DI in flutter](https://medium.com/flutter-community/flutters-dependency-injection-c4f053e4408)
+* Package:
+   -  [injectable](https://pub.dev/packages/injectable)
+   -  [getIt](https://pub.dev/packages/get_it)
+
+
+### Reactive programming
+* [RxDart](https://pub.dev/packages/rxdart)
+* Introduction to [RxDart](https://medium.com/flutter-community/why-use-rxdart-and-how-we-can-use-with-bloc-pattern-in-flutter-a64ca2c7c52d)
+
+### Practical 5.1
+* Create a simple app that shows the Grid list of users in home screen.
+* User should be navigate to it's detail page by clicking user.
+* Implement login page with validation.
+* Implement Error screen in case of Exception.
+* API - GET Request: https://jsonplaceholder.typicode.com/users
+  - Note
+    - Use rxDart and DI
 
 ### Testing:
 * [Intruduction](https://docs.flutter.dev/testing) to testing flutter apps
@@ -186,19 +216,9 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ### Package
 * [Test](https://pub.dev/packages/test)
 
-### Practical 5.1:
-* Add Unit,widget and integration test in practical 4.1
+### Practical 5.2:
+* Add Unit,widget and integration test in practical 5.1
 
-### Depenedecy Injection
-* [Introduction](https://www.geekyants.com/blog/understanding-dependency-injection-in-flutter-using-provider-143/) to dependency injection
-* [DI in flutter](https://medium.com/flutter-community/flutters-dependency-injection-c4f053e4408)
-* Package:
-   -  [injectable](https://pub.dev/packages/injectable)
-   -  [getIt](https://pub.dev/packages/get_it)
-
-### Reactive programming
-* [RxDart](https://pub.dev/packages/rxdart)
-* Introduction to [RxDart](https://medium.com/flutter-community/why-use-rxdart-and-how-we-can-use-with-bloc-pattern-in-flutter-a64ca2c7c52d)
 
 ### Dev Tools:
 * [Flutter Inspector](https://docs.flutter.dev/development/tools/devtools/inspector)
@@ -206,6 +226,23 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * Flutter performance [best practices](https://docs.flutter.dev/perf/best-practices)
 
 ## Sprint 6:
+
+### Localization
+* [Internationalizing Flutter apps](https://docs.flutter.dev/development/accessibility-and-localization/internationalization)
+
+### Platform integration
+* [Supported Platforms](https://docs.flutter.dev/development/tools/sdk/release-notes/supported-platforms)
+* [Desktop support for flutter](https://docs.flutter.dev/development/platform-integration/desktop)
+* [Web application with flutter](https://docs.flutter.dev/get-started/web)
+
+## Practical 6.1:
+* Add localization in Practicle 5.1
+* Add desktop and web support for the same. 
+ 
+### Advanc UI
+* [Slivers](https://docs.flutter.dev/development/ui/advanced/slivers)
+* [Animation](https://docs.flutter.dev/development/ui/animations)
+
 
 ### Final Practice:
 1 Implement a shopping application 
