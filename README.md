@@ -177,9 +177,6 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Sqlite database](https://docs.flutter.dev/cookbook/persistence/sqlite)
 * [hive](https://pub.dev/packages/hive)
 
-### Remote Storage:
-* [Firebase](https://docs.flutter.dev/development/data-and-backend/firebase)
-
 ### Practical 4.2
 * Store data in SQLite 
 * Shows the data from SQLite on home screen
@@ -188,6 +185,9 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ### Reference:
 * [Database concepts](https://www.tutorialspoint.com/flutter/flutter_database_concepts.htm) in flutter
 * [SQL Databsae storage using sqlite](https://medium.flutterdevs.com/sql-database-storage-using-sqlite-in-flutter-6e2fdcc8cfb7)
+
+### Remote Storage:
+* [Firebase](https://docs.flutter.dev/development/data-and-backend/firebase)
 
 ### Practical 4.3
 * Use firebase as backend data service in Practical 4.1
