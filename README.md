@@ -126,6 +126,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
  ### Work in background
  * [Concurrency](https://dart.dev/guides/language/concurrency) in Dart
  * [Asynchronous programming](https://dart.dev/codelabs/async-await)
+ 
  #### Reference:
  * [Asynchronous](https://medium.flutterdevs.com/concurrency-in-dart-b9171278af31) in Dart
  * [WorkManager](https://pub.dev/packages/workmanager)
@@ -164,6 +165,10 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
   - Note
     - Use flutter bloc for state management
     - Use provider for state management
+ 
+### Reference:
+* [Provider](https://medium.com/codechai/provider-state-management-in-flutter-d453e73537c5) state management in flutter
+* [BLoC](https://blog.logrocket.com/state-management-flutter-bloc-pattern/) state management in flutter
 
 
 ### Local storage:
@@ -180,11 +185,9 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * Shows the data from SQLite on home screen
 * Implement CRUD operation with SQLite in above practicle 4.1
    
-   
- ### Reference:
+### Reference:
 * [Database concepts](https://www.tutorialspoint.com/flutter/flutter_database_concepts.htm) in flutter
-* [Provider](https://medium.com/codechai/provider-state-management-in-flutter-d453e73537c5) state management in flutter
-* [BLoC](https://blog.logrocket.com/state-management-flutter-bloc-pattern/) state management in flutter
+* [SQL Databsae storage using sqlite](https://medium.flutterdevs.com/sql-database-storage-using-sqlite-in-flutter-6e2fdcc8cfb7)
 
 ### Practical 4.3
 * Use firebase as backend data service in Practical 4.1
