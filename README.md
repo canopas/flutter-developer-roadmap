@@ -155,10 +155,16 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
  * State management [approaches](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options)
  * Udemy Course 1: Section 16
 
-### Reactive Programming
-* [rxDart](https://pub.dev/packages/rxdart)
+### Practical 4.1
+* Create simple TODO app.
+* Home screen should have list of task with add new task fab button.
+* On the click of task it should be redirect to task status screen where it can be edit.
+* On the cell swipe it shows delete option and on it's click that particular task should delete.
+* Add option to active and inactive task.
+  - Note
+    - Use flutter bloc for state management
+    - Use provider for state management
 
-     - [how to use rxdart with bloc pattern](https://medium.com/flutter-community/why-use-rxdart-and-how-we-can-use-with-bloc-pattern-in-flutter-a64ca2c7c52d)
 
 ### Local storage:
 * [Store key-vaue pair](https://docs.flutter.dev/cookbook/persistence/key-value)
@@ -169,15 +175,10 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ### Remote Storage:
 * [Firebase](https://docs.flutter.dev/development/data-and-backend/firebase)
 
-### Practical 4.1
-* Create simple TODO app with CRUD operation with SQLite.
-* Home screen should have list of task with add new task fab button.
-* On the click of task it should be redirect to task status screen where it can be edit.
-* On the cell swipe it shows delete option and on it's click that particular task should delete.
-* Add option to active and inactive task.
-  - Note
-    - Use flutter bloc for state management
-    - Use provider for state management
+### Practical 4.2
+* Store data in SQLite 
+* Shows the data from SQLite on home screen
+* Implement CRUD operation with SQLite in above practicle 4.1
    
    
  ### Reference:
@@ -185,7 +186,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Provider](https://medium.com/codechai/provider-state-management-in-flutter-d453e73537c5) state management in flutter
 * [BLoC](https://blog.logrocket.com/state-management-flutter-bloc-pattern/) state management in flutter
 
-### Practical 4.2
+### Practical 4.3
 * Use firebase as backend data service in Practical 4.1
 
 
