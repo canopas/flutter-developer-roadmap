@@ -72,30 +72,29 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 
 
 ### Practical 2.1
-* Create given [Responsive UI](https://user-images.githubusercontent.com/92501869/202130578-6c42048a-ce47-4833-bdc2-9e700cc6a489.png)
-   - You can use alternative images.
+* Create given [Responsive UI](https://user-images.githubusercontent.com/92501869/202130578-6c42048a-ce47-4833-bdc2-9e700cc6a489.png) for mobile and       desktop app. 
+    - You can use alternative images.
+    - Note: It should not be break in portrait mode for mobile apps
+ 
    
 ### Navigation:
 * [Navigation](https://medium.com/easyread/3-options-for-creating-responsive-layouts-in-flutter-app-live-demo-68b0c0e955ab) in Flutter
 * [Navigation and Routing](https://docs.flutter.dev/development/ui/navigation)
-* Introduction to [Navigator 2.0](https://blog.codemagic.io/flutter-navigator2/)
+
 
 ### Practical 2.2
 * Implement an app with a bottom bar that has 4 screens (home, setting, like, search).
    -  Implement a route between screens from Navigation 1.0.
-   -  Implement Navigation 2.0 with [go_router](https://pub.dev/packages/go_router).
    
-### References:
-* [A beginner’s guide to go_router in Flutter](https://blog.codemagic.io/flutter-go-router-guide/)
-* [Get started with Go Router](https://pub.dev/documentation/go_router/latest/topics/Get%20started-topic.html)
-
    
-## Sprint 3:
-
 ### Json serialization:
 * [Json and serialization](https://docs.flutter.dev/development/data-and-backend/json)
    - [Parsing Json](https://medium.com/@abhishekdoshi26/parsing-json-in-flutter-7519293f5168) in flutter
 * [Auto generate](https://medium.flutterdevs.com/automatic-generate-json-serializable-in-flutter-4c9d2d23ed88) json serializable in flutter
+
+
+
+## Sprint 3:
 
 ### Networking:
 * [Networking in flutter](https://docs.flutter.dev/development/data-and-backend/networking)
@@ -108,7 +107,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * Implement Food Application with following functionality 
 * Fetch food feeds from API 
 * User should be navigate to its detail page by clicking reciepe
-* Add log click delete functionality on food click to delete food from local storage
+* Add long click delete functionality on food click to delete food from local storage
 * Implement [pull to refresh](https://pub.dev/packages/pull_to_refresh) functionality to refresh cached feeds in local storage.
 
     API - GET request - 'https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/food/ingredient
@@ -132,8 +131,16 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
  * [WorkManager](https://pub.dev/packages/workmanager)
  * [Thread and Isolate](https://medium.com/flutter-community/thread-and-isolate-with-flutter-30b9631137f3)
  
+ ### Navigation 2.0
+ * Introduction to [Navigator 2.0](https://blog.codemagic.io/flutter-navigator2/)
+ 
  ### Practicle 3.2
+ * Implement Navigation 2.0 with [go_router](https://pub.dev/packages/go_router).
  * Implement navigation 2.0 in Practicle 3.1
+ 
+ ### References:
+* [A beginner’s guide to go_router in Flutter](https://blog.codemagic.io/flutter-go-router-guide/)
+* [Get started with Go Router](https://pub.dev/documentation/go_router/latest/topics/Get%20started-topic.html)
  
  ## Sprint 4:
  
@@ -181,6 +188,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ### Practical 4.2
 * Use firebase as backend data service in Practical 4.1
 
+
 ## Sprint 5
 
 
@@ -190,20 +198,24 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * Package:
    -  [injectable](https://pub.dev/packages/injectable)
    -  [getIt](https://pub.dev/packages/get_it)
+   
+### Practical 5.1
+* Implement DI in Practical 4.2
+* Implement GetX in Practical 4.2
 
 
 ### Reactive programming
 * [RxDart](https://pub.dev/packages/rxdart)
 * Introduction to [RxDart](https://medium.com/flutter-community/why-use-rxdart-and-how-we-can-use-with-bloc-pattern-in-flutter-a64ca2c7c52d)
 
-### Practical 5.1
+### Practical 5.2
 * Create a simple app that shows the Grid list of users in home screen.
 * User should be navigate to it's detail page by clicking user.
 * Implement login page with validation.
 * Implement Error screen in case of Exception.
 * API - GET Request: https://jsonplaceholder.typicode.com/users
   - Note
-    - Use rxDart and DI
+    - Use rxDart
 
 ### Testing:
 * [Intruduction](https://docs.flutter.dev/testing) to testing flutter apps
@@ -216,16 +228,12 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ### Package
 * [Test](https://pub.dev/packages/test)
 
-### Practical 5.2:
+### Practical 5.3:
 * Add Unit,widget and integration test in practical 5.1
 
 
-### Dev Tools:
-* [Flutter Inspector](https://docs.flutter.dev/development/tools/devtools/inspector)
-* [Memory allocation](https://docs.flutter.dev/development/tools/devtools/memory)
-* Flutter performance [best practices](https://docs.flutter.dev/perf/best-practices)
-
 ## Sprint 6:
+
 
 ### Localization
 * [Internationalizing Flutter apps](https://docs.flutter.dev/development/accessibility-and-localization/internationalization)
@@ -277,6 +285,13 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 
  2  Make a calculator application. Save calculation history in the database. Users can view history and clear history.
 
+
+### Extra:
+
+### Dev Tools:
+* [Flutter Inspector](https://docs.flutter.dev/development/tools/devtools/inspector)
+* [Memory allocation](https://docs.flutter.dev/development/tools/devtools/memory)
+* Flutter performance [best practices](https://docs.flutter.dev/perf/best-practices)
 
 
 
