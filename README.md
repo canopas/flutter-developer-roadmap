@@ -107,8 +107,8 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * Implement Food Application with following functionality 
 * Fetch food feeds from API 
 * User should be navigate to its detail page by clicking reciepe
-* Add long click delete functionality on food click to delete food from local storage
-* Implement [pull to refresh](https://pub.dev/packages/pull_to_refresh) functionality to refresh cached feeds in local storage.
+* Add long click delete functionality on food click to delete food.
+* Implement [pull to refresh](https://pub.dev/packages/pull_to_refresh) functionality to refresh cached feeds.
 
     API - GET request - 'https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/food/ingredient
     
