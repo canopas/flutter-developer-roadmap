@@ -157,12 +157,8 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
  * Udemy Course 1: Section 16
 
 ### Practical 4.1
-* Create simple TODO app.
-* Home screen should have list of task with add new task fab button.
-* On the click of task it should be redirect to task status screen where it can be edit.
-* On the cell swipe it shows delete option and on it's click that particular task should delete.
-* Add option to active and inactive task.
-  - Note
+* Implement state management approach in Practical 3.1
+ - Note
     - Use flutter bloc for state management
     - Use provider for state management
  
@@ -178,9 +174,16 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [hive](https://pub.dev/packages/hive)
 
 ### Practical 4.2
-* Store data in SQLite 
-* Shows the data from SQLite on home screen
-* Implement CRUD operation with SQLite in above practicle 4.1
+* create a task management app with three screens: a login screen, a task list screen, and a task detail screen. The app should allow users to login with   their credentials, view a list of tasks, and view details of each task.
+* Home screen should have list of task with add new task fab button
+* Users can mark tasks as completed or uncompleted.
+* On the click of task it should be redirect to task status screen where it can be edit.
+* On the cell swipe it shows delete option and on it's click that particular task should delete.
+* The app should display a summary of the number of tasks that are completed and uncompleted.
+   - Note
+     -  Store data in SQLite 
+     -  Shows the data from SQLite on home screen
+     -  Implement CRUD operation with SQLite 
    
 ### Reference:
 * [Database concepts](https://www.tutorialspoint.com/flutter/flutter_database_concepts.htm) in flutter
@@ -213,11 +216,19 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * Introduction to [RxDart](https://medium.com/flutter-community/why-use-rxdart-and-how-we-can-use-with-bloc-pattern-in-flutter-a64ca2c7c52d)
 
 ### Practical 5.2
-* Create a simple app that shows the Grid list of users in home screen.
-* User should be navigate to it's detail page by clicking user.
-* Implement login page with validation.
-* Implement Error screen in case of Exception.
-* API - GET Request: https://jsonplaceholder.typicode.com/users
+Create a weather app that allows users to check the current weather conditions and forecast for any location. 
+* The app should have three screens: 
+    *  Home screen that displays the current weather conditions for the user's location,  
+    *  Search screen that allows users to search for weather conditions by city name
+    *  Details screen that displays the selected location's weather forecast for the next few days.
+    * Implement Error screen in case of Exception.
+    
+    
+      -  Refer: https://openweathermap.org./
+      -  Generate your API key here: https://home.openweathermap.org/users/sign_up
+      -  API-Get request for weather data: https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
+      -  API-GET Request for location data: https://api.openweathermap.org/geo/1.0/direct?q={city}&limit=1&appid={API Key}
+
   - Note
     - Use rxDart
 
