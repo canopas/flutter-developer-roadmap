@@ -16,3 +16,5 @@ Before submitting a merge request for review, it is important to ensure that you
 - [ ] 13. Includes relevant unit tests: Write unit tests that focus on testing behavior and functionality, rather than merely covering lines of code.
 - [ ] 14. Ensures code is performant and scalable: Verify that the changes do not introduce performance issues or bottlenecks, and can scale as needed.
 - [ ] 15. Comments are up-to-date and relevant to the code to describe complex logic and to add understanding for other developers.
+- [ ] 16.  Make sure to address any issues flagged by the linter before submitting the code for MR review.
+- [ ] 17. Segregation of code into a proper folder structure namely providers, models, screens/pages, utils.
