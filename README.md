@@ -176,7 +176,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ### Practical 4.2
 * create a task management app with three screens: a login screen, a task list screen, and a task detail screen. The app should allow users to login with   their credentials, view a list of tasks, and view details of each task.
 * Home screen should have list of task with add new task fab button
-* Users can mark tasks as completed or uncompleted.
+* Users can mark tasks as completed or incompleted.
 * On the click of task it should be redirect to task status screen where it can be edit.
 * On the cell swipe it shows delete option and on it's click that particular task should delete.
 * The app should display a summary of the number of tasks that are completed and uncompleted.
